@@ -3,6 +3,6 @@
 # Feel free to google "how to generate a random number in ruby"
 
 def roll()
-  tuffRoll = rand(5)+1
+  tuffRoll = rand(6)
   puts tuffRoll
 end
